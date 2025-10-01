@@ -28,5 +28,5 @@ Bearbeite die config.lua:
 - Sofortige Synchronisation bei Spieler-Login
 
 ## Support
-Bei Fragen oder Problemen, bitte ein Issue auf GitHub erstellen oder mich auf Discord kontaktieren.
+Bei Fragen oder Problemen, bitte mich auf Discord kontaktieren oder auf Nord Service Discord ticket auf machen: https://discord.gg/5rV7BJ7nDX.
 
